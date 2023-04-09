@@ -1,6 +1,9 @@
 # Verified Queer Flag Emojis
 
-This is a repository of art resources for the Verified Queer Flag Emojis you might have seen on the fediverse.
+This is a repository of art resources for the Verified Queer Flag Emojis you might have seen on the fediverse;
+
+![](examples/verifiedenby.png)
+![](examples/verifiedtrans.png)
 
 I've taken inspiration from the [VeriPride Maker](https://yuki.1337.lgbt/veripride/) generator, but found it lacking for some specific things tasks (like heavy customization), and the non-right-angle checkmark annoyed me when trying to get fill-ins to work, so I created a defacto template file from which I started basing every other flag-file of.
 
@@ -32,7 +35,7 @@ If you want to use it to make a flag, just find a flag file on the internet, or 
 
 Paste it in a new tab, don't paste it to the second layer just yet.
 
-Then, scale it *down* to a 512px height, it's now ready to be copy-pasted onto the second layer.
+Then, scale it *down* to a 500px height, it's now ready to be copy-pasted onto the second layer.
 
 In the verified xcf file, select the second layer (beware of clicking the mask accidentally), and paste the flag.
 
