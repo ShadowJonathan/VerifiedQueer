@@ -1,5 +1,7 @@
 # Verified Queer Flag Emojis
 
+**If you're looking for the emoji image files themselves, you can find them on my site: [jo.wtf](https://jo.wtf)**
+
 This is a repository of art resources for the Verified Queer Flag Emojis you might have seen on the fediverse;
 
 ![](examples/verifiedenby.png)
