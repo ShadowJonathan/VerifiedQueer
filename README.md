@@ -18,8 +18,9 @@ These resource files are released under [`CC NC-SA`](https://creativecommons.org
 This means;
 - That you can remove attribution to me or this repo if you want (please do, I don't want the attention or popularity, I just want to empower people)
 - That - if you make more *flag template files* (like `verified.xcf`) deriving from these files - you should release it under the same license.
-- That you cannot use this for commercial purposes.
+- That you cannot use this for commercial purposes.`*`
   - First off because fuck corporations encroaching on queerness, but also because the whole point of these images are to allow people to stick a finger to any authority-beholden "verification" of queerness, so to speak. (You can read [my post](https://tech.lgbt/@ShadowJonathan/109473889530943426) on it, if you're curious.)
+  - `*` I give an exception to physical cosmetic items, like stickers and badges, go wild: wear it proudly :)
 
 ## Repo Layout
 
