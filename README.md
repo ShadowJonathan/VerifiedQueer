@@ -1,6 +1,6 @@
 # Verified Queer Flag Emojis
 
-**If you're looking for the emoji image files themselves, you can find them on my site: [jo.wtf](https://jo.wtf)**
+**If you're looking for the emoji image files themselves, you can find them in [releases](https://github.com/ShadowJonathan/VerifiedQueer/releases).**
 
 This is a repository of art resources for the Verified Queer Flag Emojis you might have seen on the fediverse;
 
