@@ -7,7 +7,7 @@ This is a repository of art resources for the Verified Queer Flag Emojis you mig
 ![](examples/verifiedenby.png)
 ![](examples/verifiedtrans.png)
 
-I've taken inspiration from the [VeriPride Maker](https://possums.gay/veripride/) generator ([source](https://git.lgbt/root/veripride/)), but found it lacking for some specific things tasks (like heavy customization), and the non-right-angle checkmark annoyed me when trying to get fill-ins to work, so I created a defacto template file from which I started basing every other flag-file of.
+I've taken inspiration from the [VeriPride Maker](https://posm.gay/public/veripride/) generator ([source](https://git.lgbt/root/veripride/)), but found it lacking for some specific things tasks (like heavy customization), and the non-right-angle checkmark annoyed me when trying to get fill-ins to work, so I created a defacto template file from which I started basing every other flag-file of.
 
 In these files, the "flowery" outline is taken from the SVG of twitter's website. The checkmark is mine, created by some long twiddling in an SVG editor.
 
